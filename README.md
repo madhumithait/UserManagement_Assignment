@@ -25,7 +25,7 @@ A full-stack web application that allows users to be added, viewed, edited, and 
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/user-management-dashboard.git
+git clone https://github.com/madhumithait/UserManagement_Assignment.git
 cd user-management-dashboard
 
 ### 2. Backend Setup
